@@ -19,3 +19,6 @@ UI Enhancements: Animations, visual feedback for correct/incorrect answers
 
 📷 Screenshots & Walkthrough
 ![Screenshot 2025-01-31 124042](https://github.com/user-attachments/assets/5155e9a9-fd26-4a23-abd5-1bf2d70e277e)
+
+![Screenshot 2025-01-31 124035](https://github.com/user-attachments/assets/30f37605-ec1f-47be-8ecd-54c4f58312b7)
+
